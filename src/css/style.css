@@ -1,0 +1,15 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.container{
+  width: 960px;
+  margin: auto;
+}
+.clear{clear:both;}
+
+header{ background: blue;}
+header .logo{float: left;}
+header .nav{float: left;}
+header .nav ul li{list-style: none;float: left;}
+header .nav ul li a{display: inline-block;padding: 15px 33px;color: #fff; margin-top: 65px;}
